@@ -1,15 +1,7 @@
-intro: "You can list your publications in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+intro: "Having worked in the video streaming services area for a considerable time, I managed to get several papers published related to it. Following is the most noteworthy one."
 publications:
   - paper:
-    title: The Art of Computer Programming
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
-  - paper:
-    title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-  - paper:
-    title: A syntax directed compiler for Algol 60
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+    title: Scalable and Cost-effective Live Video Encoding in Cloud
+    authors: Koustubh B. Gaikwad, Tomoaki Ohtsuki
+    conference: March 2015, Institute of Electronics, Information and Communication Engineers
+    details: '<br/> <p> Proposed Architecture and implementation to perform Live Video encoding in cloud for delivery across multiple platforms.'

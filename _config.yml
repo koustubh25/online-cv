@@ -17,16 +17,15 @@ about: True # set to False or comment line if you want to remove the "How to use
 name: Koustubh
 tagline: Full Stack Developer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+summary: 'A full-time passionate Web Developer with an execess of five years of experience in the IT industry in three different countries viz. India, USA and Japan in Financial, Research, B2B and ERP domain. </br>
+<p> I am currently employed as a Research and Development Engineer in a top ERP company in Tokyo, Japan where my work mainly consists of Full Stack Web Development and includes administration of Linux server infrastructure for the team.
+<p> Previously, I have worked on projects which involved benchmarking of cloud services for video encoding purposes and also on administering and maitaining server infrastrcuture for Video Streaming Services.'
 
 #sidebar links
 email: koustubh_gaikwad@yahoo.com
-phone: +81-50-5579-6124
-website: blog.webjeda.com #do not add http://
-linkedin: koustubh-gaikwad
+phone: +81-50-5539-2199
+website: koustubh25.github.io/home #do not add http://
+linkedin: koustubhgaikwad
 github: koustubh25
 twitter: '@webjeda'
 #Update all the sections by editing the files inside _data folder.

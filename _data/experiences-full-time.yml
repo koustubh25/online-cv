@@ -1,0 +1,64 @@
+- experience:
+  role: Expert Software Development Engineer
+  time: October 2016 - Present
+  company: Works Applications Co. Ltd., Tokyo (Japan)
+  details: "
+  I worked on the development and maintenance of ERP (Enterprise Resource Planning) software by Works Applications called 'HUE' which follows the Microservices Architecture (MSA)
+  <ul>
+    <li>Full-stack Web Development for development of software and services alongwith Cloud Engineering for the team's microservice</li>
+    <li>Mentored and managed development work performed by an offshore team of four developers</li>
+    <li>Responsible for maintenance of Linux server infrastructure for a team of fifteen developers</li>
+    <li>DevOps related tasks to build a robust testing (pre-evaluation) environment for developers within the team</li>
+    <h4>Achievements</h4>
+    <li>Since the evaluation environment was shared by multiple teams (MSA), creating a pre-evaluation environment greatly helped the development and testing process</li>
+  </ul>"
+- experience:
+  role: Web Engineer
+  time: October 2015 - September 2016
+  company: Eviry Inc., Tokyo (Japan)
+  details: "
+  I worked on a product called 'Millvi' which provides Video Encoding and Delivery Services
+  <ul>
+    <li>Responsible for maintaining Linux server infrastructure for Video Streaming services</li>
+    <li>Implemented HTTP Live Streaming (HLS) using an open-source library 'hls.js'</li>
+    <li>Worked on implementing the web service portal using PHP and Backbone.js</li>
+    <h4>Achievements</h4>
+    <li>Designed the new architecture of the Video Streaming service by adopting a queueing system which made the implementation more efficient</li>
+    <li>Introduced Data Science concepts to make the implementation cost-effective by dynamically starting and stopping servers on the cloud</li>
+  </ul>"
+- experience:
+  role: Software Engineering Intern
+  time: August 2015 - September 2015
+  company: Cisco Systems, San Jose (USA)
+  details: "I was a full time intern for a year in the Video Collaboration Group at Cisco Systems. I worked on two very different projects during this period.<br/><br/>
+  <b>I. Evaluation of Public Cloudstacks</b><br/>
+            Perform various benchmarking tests to evaluate AWS and Rackspace Performance in terms of general Hardware capability, Video Encoding and Network Performance.
+            <ul>
+              <li><b>Hardware Performance:</b> Use of a open-source benchmarking tool-Unixbench to perform System benchmarking on all the available instances in AWS and Rackspace at the time.
+              <li><b>Video Encoding:</b> Used x264 encoder to convert a raw 1080p video file to H.264 encoded file and measuring various performance parameters like time of encoding, CPU usage, memory usage etc.
+              <li><b>Network Performance:</b> Use of Iperf - Network testing tool, to measure network throughputs with various AWS instances.
+              <h4> Achievements </h4>
+              <li>The benchmarking results were deemed very useful by the team at Cisco working on a private Cisco cloud called 'Nimbus' and helped them to set the pricing model</li>
+            </ul>
+
+            <b>II. Blended Services - HTML5 based cross-platform Web Application </b><br/>
+            This platform was developed as a PoC which was basically a HTML5 based cross-platform Web Application with personalized video content from Facebook, Dailymotion, Youtube and Soundcloud compatible across various Android and iOS devices.<br/>
+            <ul>
+            <br/>
+              <li> Built the entire platform following suggestions and advice from a mentor at Cisco</li>
+              <li> <b>Identity Service:</b> Built a separate Identity Service which takes care of the Application login as well as managing all social accounts. It makes use of OAuth 2.0 protocol to obtain and store access tokens from each of the above mentioned Social Media Services.
+              <li> <b>Backbone.js based UI:</b> Built UI using Backbone.js and was purely HTML5 based which allowed it to run across a variety of devices - Desktops, Laptops, Tablets and Mobile phones (iOS and Android)
+              <h4> Achievements </h4>
+              <li>This PoC work was acknowledeged by serveral senior executvies at Cisco and served as a good starting point for the development of the actual commercial product</li>
+            </ul>
+            "
+- experience:
+  role: Software Engineer
+  time: June 2010 - June 2012
+  company: Persistent Systems, Pune (India)
+  details: "Worked  on  a  web  based  messaging  product  by  a  client  company  'Openwave', which was something similar to 'G Suite' by Google Inc. at the time
+  <ul>
+    <li>Worked on configuration  and  maintenance  of  external  email  accounts  within  the  application </li>
+    <li>Integrated Facebook and Twitter widgets within the application</li>
+    <li>Wrote automation testing scripts using VBScript in QTP</li>
+  <ul>"

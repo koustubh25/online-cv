@@ -1,18 +1,42 @@
 - skill:
-  name: Python & Django
+  name: Java (Spring framework)
   level: 98%
+- skill:
+  name: Node.js
+  level: 60%
+- skill:
+  name: PHP
+  level: 80%
+- skill:
+  name: Python & Django
+  level: 60%
 - skill:
   name: Javascript & jQuery
-  level: 98%
+  level: 75%
 - skill:
   name: Angular
-  level: 98%
+  level: 50%
+- skill:
+  name: Backbone.js
+  level: 80%
+- skill:
+  name: Nginx
+  level: 80%
 - skill:
   name: HTML5 & CSS
   level: 95%
 - skill:
-  name: Ruby on Rails
-  level: 85%
+  name: Cassandra
+  level: 50%
 - skill:
-  name: Sketch & Photoshop
+  name: Docker and Kubernetes
   level: 60%
+- skill:
+  name: Video Streaming
+  level: 60%
+- skill:
+  name: Postgres
+  level: 70%
+- skill:
+  name: MySql
+  level: 70%

@@ -1,16 +1,18 @@
 - education:
-  degree: MSc in Computer Science
-  university: University of London
-  time: 2011 - 2012
-  details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  degree: Masters of Science in Engineering (Computer Science)
+  university: Keio University, Japan
+  time: 2012 - 2015
+  details: "Studied the following main courses </br>
+  1. Software Engineering
+  2. Computer Networks
+  3. Natural Language processing
+  4. <b> Masters Thesis: </b> Scalable and Cost-effective live video encoding in Cloud."
 - education:
-  degree: BSc in Applied Mathematics
-  university: Bristol University
-  time: 2007 - 2011
-  details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  degree: Bachelors of Engineering in Computer Science
+  university: Pune University, India
+  time: 2006 - 2010
+  details: "Studied the following main courses </br>
+  1. Data Structure and Algorithms
+  2. Software Engineering
+  3. Computer Networks
+  4. <b> Bachelors Thesis: </b> Adaptive Video Conferencing System"
