@@ -3,19 +3,19 @@
   level: 98%
 - skill:
   name: Node.js
-  level: 60%
+  level: 98%
 - skill:
   name: PHP
-  level: 80%
+  level: 98%
 - skill:
   name: Python & Django
-  level: 60%
+  level: 70%
 - skill:
   name: Javascript & jQuery
-  level: 75%
+  level: 90%
 - skill:
   name: Angular
-  level: 50%
+  level: 80%
 - skill:
   name: Backbone.js
   level: 80%
@@ -27,16 +27,16 @@
   level: 95%
 - skill:
   name: Cassandra
-  level: 50%
+  level: 75%
 - skill:
   name: Docker and Kubernetes
-  level: 60%
+  level: 80%
 - skill:
   name: Video Streaming
-  level: 60%
+  level: 80%
 - skill:
   name: Postgres
-  level: 70%
+  level: 85%
 - skill:
   name: MySql
-  level: 70%
+  level: 85%

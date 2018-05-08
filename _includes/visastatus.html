@@ -1,0 +1,15 @@
+{% if site.data.visastatus %}
+<div class="interests-container container-block">
+
+    <h2 class="container-block-title">Visa Status</h2>
+
+    <ul class="list-unstyled interests-list">
+        {% for status in site.data.visastatus %}
+
+        <li>{{ status.detail }}</li>
+
+        {% endfor %}
+    </ul>
+
+</div><!--//interests-->
+{% endif %}

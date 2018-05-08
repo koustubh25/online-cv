@@ -1,23 +1,19 @@
-intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+intro: "Below are some of the projects created as a hobby"
 projects:
   - project:
-    title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    title: Word Sense Disambiguation
+    link: "http://koustubh25.github.io/nlp-wsd-fe/app/#/home"
+    tagline: "A simple demonstration of the Word Sense Dismabiguation project"
   - project:
-    title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    title: slack-oauth2
+    link: "https://github.com/koustubh25/slack-oauth2"
+    tagline: "A simple library to quickly acquire access tokens following oauth2 protocol."
   - project:
-    title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    title: snake
+    link: "https://koustubh25.github.io/snake/"
+    tagline: "Simple JS program to play the popular snake game in the browser"
   - project:
-    title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-  - project:
-    title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    title: Dynamic search YouTube videos
+    link: "http://koustubh25.github.io/backbone-youtube/"
+    tagline: "A Backbone.js program to search YouTube videos real-time"
+

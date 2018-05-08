@@ -1,7 +1,7 @@
 - experience:
   role: Web Engineering Intern
   time: August 2015 - September 2015
-  company: Eviry Inc., Tokyo (Japan)
+  company: <a href='https://eviry.com/'  style='color:#97AAC3'>Eviry Inc., Tokyo (Japan)</a>
   details: "I worked on a product called 'Millvi' which provides Video Encoding and Delivery Services
   <ul>
     <li>Worked on the development and maintenance of the web service portal using PHP and Backbone.js</li></li>
@@ -9,7 +9,7 @@
 - experience:
   role: Software Enginnering Intern
   time: January 2015 - July 2015
-  company: iPROS Corporation, Tokyo (Japan)
+  company: <a href='https://www.ipros.jp/'  style='color:#97AAC3'>iPROS Corporation, Tokyo (Japan)</a>
   details: "I worked on their B2B ecommerce product
   <ul>
     <li>Developed and maintained their code in Java (Seasar2 framework)</li>
