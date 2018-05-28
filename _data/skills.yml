@@ -40,3 +40,12 @@
 - skill:
   name: MySql
   level: 85%
+- skill:
+  name: Jenkins
+  level: 85%
+- skill:
+  name: Ansible
+  level: 85%
+- skill:
+  name: Shell Scripting
+  level: 85%
