@@ -1,6 +1,16 @@
 - experience:
+  role: Ethereum BLockchain Developer (Remote)
+  time: July 2018 - Present
+  company: <a href='https://indiesquare.me/'  style='color:#97AAC3'>Indiesquare Inc., Tokyo (Japan)</a>
+  details: "
+  I recently joined a Japanese Blockchain company and work for them from Australia. My main responsibilities are as follows:
+  <ul>
+    <li> Creating Decentralized Applications (Dapps) </li>
+    <li> Maintaining Ethereum node infrastructure and manage CI/CD pipelines</li>
+  </ul>"
+- experience:
   role: Expert Software Development Engineer
-  time: October 2016 - Present
+  time: October 2016 - July 2018
   company: <a href='http://www.worksap.com/'  style='color:#97AAC3'>Works Applications Co. Ltd., Tokyo (Japan)</a>
   details: "
   I worked on the development and maintenance of ERP (Enterprise Resource Planning) software by Works Applications called 'HUE' which follows the Microservices Architecture (MSA). My main responsibilities are as follows:
